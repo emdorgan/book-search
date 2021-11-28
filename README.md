@@ -4,9 +4,7 @@
 
 ## To-do List
 
-* Install all the Graph QL node packages
 * Figure out which routes I need to refactor (pseudocode)
-* Make the typeDef models
 * Make the resolvers (routes)
 * Make the front end fetch requests connect
 
